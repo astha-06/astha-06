@@ -1,5 +1,6 @@
 ### Hi there, I'm Astha 👋
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=astha-06&label=Profile%20views&color=0e75b6&style=flat" alt="priithaa" /> </p>
 
 - 🌱 I’m currently learning **OpenStack and open source clod development tools**
 
